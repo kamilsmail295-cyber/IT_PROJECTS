@@ -1,0 +1,37 @@
+C:\Users\952-26>cd desktop
+
+C:\Users\952-26\Desktop>mkdir ROOT_LABYRINTH
+
+C:\Users\952-26\Desktop>cd ROOT_LABYRINTH
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH>mkdir SECTOR_A
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH>mkdir SECTOR_B
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH>cd SECTOR_A
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH\SECTOR_A>mkdir secret.txt
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH\SECTOR_A>echo Isakov > secret.txt
+Отказано в доступе.
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH\SECTOR_A>cd..
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH>cd SECTOR_B
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH\SECTOR_B>mkdir history_log.txt
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH\SECTOR_B>echo isakov > history_log.txt
+Отказано в доступе.
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH\SECTOR_B>echo is-26-7k > history_log.txt
+Отказано в доступе.
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH\SECTOR_B>cd..
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH>cd SECTOR_A
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH\SECTOR_A>del secret.txt
+C:\Users\952-26\Desktop\ROOT_LABYRINTH\SECTOR_A\secret.txt\*, вы уверены [Y(да)/N(нет)]? y
+
+C:\Users\952-26\Desktop\ROOT_LABYRINTH\SECTOR_A>
