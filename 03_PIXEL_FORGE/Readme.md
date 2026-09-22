@@ -18,7 +18,7 @@
 * Создан предмет для сбора: [Сундук/Монета].
 
 ## ПРЕВЬЮ ГРАФИКИ
-![Игрок](/assets/hero_spritesheet.png)
-![Враг](/assets/enemy_spritesheet.png)
-![Стена](/assets/wall.png)
-![Пол](/assets/floor.png)
+![Игрок](assets/hero_spritesheet.png)
+![Враг](assets/enemy_spritesheet.png)
+![Стена](assets/walls.png)
+![Пол](assets/floor.png)
